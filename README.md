@@ -41,7 +41,7 @@ Proposals will be evaluated based on the following criteria:
 - Previous projects and references.
 
 ### 8. Submission Guidelines
-Proposals should be submitted via email to **abeifeoluwa21@gmail.com** by [Insert Deadline]. Please include:
+Proposals should be submitted via email to **abeifeoluwa21@gmail.com** by N/A. Please include:
 - A detailed proposal outlining your approach, timeline, and costs.
 - Portfolio of similar projects.
 - References from previous clients.
