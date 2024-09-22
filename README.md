@@ -1,4 +1,4 @@
-**Request for Proposal (RFP) for Website Update**  
+**Request for Proposal (RFP) for Website**  
 **Company**: SiriusTrader  
 **Date**: N/A
 
